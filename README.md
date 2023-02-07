@@ -1,6 +1,7 @@
 # Responsive Travel Website 🌊
 ## [Watch it on youtube](https://youtu.be/YzRDHxbw1RU)
 ###  Responsive Travel Website 🌊
+Welcome to our Travel site
 
 - Travel website to the most beautiful beaches, using HTML, CSS & JAVASCRIPT.
 - Contains animations when scrolling.
@@ -11,3 +12,5 @@
 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
 ![travel-website](/preview.png)
+
+Welcome to our Travel site
